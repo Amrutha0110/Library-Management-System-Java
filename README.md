@@ -1,3 +1,8 @@
+![Java](https://img.shields.io/badge/Java-8%2B-blue)
+![License](https://img.shields.io/github/license/Amrutha0110/Library-Management-System-Java)
+![Build Status](https://github.com/Amrutha0110/Library-Management-System-Java/actions/workflows/build.yml/badge.svg)
+![Stars](https://img.shields.io/github/stars/Amrutha0110/Library-Management-System-Java?style=social)
+
 # 📚 Library Management System (Java)
 
 A console-based Library Management System implemented in Java using clean OOP concepts, packages, and service layers.  
