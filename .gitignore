@@ -1,0 +1,12 @@
+# Java .gitignore
+*.class
+/out/
+/bin/
+/target/
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+/.vscode/
+*.log
